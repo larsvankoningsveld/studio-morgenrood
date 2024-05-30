@@ -1,9 +1,5 @@
-<h1 class="merriweather-regular text-lg">Welcome to Studio Morgenrood</h1>
-
-<style>
-  .merriweather-regular {
-    font-family: "Merriweather", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-</style>
+<section>
+  <div class="container mx-auto">
+    <h1 class="text-3xl">Welkom bij Studio Morgenrood</h1>
+  </div>
+</section>
